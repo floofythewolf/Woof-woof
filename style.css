@@ -1,0 +1,42 @@
+body {
+  font-family: Roboto, Arial, sans-serif; /* Use a similar font to YouTube */
+  line-height: 1.6; /* Adjust spacing between lines */
+  color: #333; /* Dark gray text */
+}
+
+.video-title {
+  font-size: 24px; /* Larger title */
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #212121; /* Darker gray for title */
+}
+
+.video-stats {
+  font-size: 14px;
+  color: #606060; /* Lighter gray for stats */
+  margin-bottom: 5px;
+}
+
+.video-stats span {
+  margin-left: 10px;
+  color: #999; /* Even lighter gray for numbers */
+}
+
+.video-author {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #212121; /* Darker gray for author */
+
+}
+
+.video-author span {
+  margin-left: 10px;
+  color: #999; /* Even lighter gray for numbers */
+}
+
+.video-description {
+  font-size: 14px;
+  color: #606060; /* Lighter gray for description */
+  line-height: 1.8;
+}
